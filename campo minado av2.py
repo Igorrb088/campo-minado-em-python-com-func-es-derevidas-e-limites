@@ -1,11 +1,11 @@
 
-import random
-import sys
-from dataclasses import dataclass
-from enum import Enum
-from fractions import Fraction
+import random        #voce precisa instalar essas bibliotecas para o jogo funcionar 
+import sys             #voce precisa instalar essas bibliotecas para o jogo funcionar 
+from dataclasses import dataclass     #voce precisa instalar essas bibliotecas para o jogo funcionar 
+from enum import Enum                 #voce precisa instalar essas bibliotecas para o jogo funcionar 
+from fractions import Fraction      #voce precisa instalar essas bibliotecas para o jogo funcionar 
 
-import sympy as sp
+import sympy as sp              #voce precisa instalar essas bibliotecas para o jogo funcionar 
 
 
 # ======================================================================
