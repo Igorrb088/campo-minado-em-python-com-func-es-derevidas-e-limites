@@ -1,3 +1,5 @@
+https://fascinating-kangaroo-fd5495.netlify.app
+
 # Campo Minado de Cálculo
 
 Jogo desktop em Python/Pygame que combina campo minado com perguntas de Funções, Limites, Derivadas e Integrais.
